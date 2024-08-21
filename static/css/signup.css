@@ -1,0 +1,21 @@
+div{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+  }
+  button{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    color: rgb(9, 7, 11);
+    background-color: royalblue;
+  }
+  body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjclDv0e9IVQdcKL5CgI8DITEgglEavaKqww&s);
+  }
+  label{
+    color: aqua;
+  }
+  h3{
+    color: chartreuse;
+
+  }
